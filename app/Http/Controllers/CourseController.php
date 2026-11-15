@@ -13,7 +13,7 @@ class CourseController extends Controller
                 'level'     => 'Debutant',
                 'published' => true
             ],
-            [
+        [
                 'title'     => 'A la decouverte de Blade',
                 'level'     => 'Debutant',
                 'published' => false
